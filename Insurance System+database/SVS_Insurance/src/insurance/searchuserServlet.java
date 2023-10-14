@@ -15,10 +15,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Lasitha G Gunasinghe
- */
 @WebServlet(name = "searchuserServlet", urlPatterns = {"/searchuserServlet"})
 public class searchuserServlet extends HttpServlet {
 

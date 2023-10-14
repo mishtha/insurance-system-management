@@ -1,7 +1,7 @@
 <%-- 
     Document   : signup
-    Created on : May 28, 2018, 6:03:42 PM
-    Author     : Lasitha G Gunasinghe
+    
+    Author     : dharmishtha
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

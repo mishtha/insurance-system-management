@@ -1,20 +1,9 @@
-/**
- * selectFx.js v1.0.0
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2014, Codrops
- * http://www.codrops.com
- */
+
 ;( function( window ) {
 	
 	'use strict';
 
-	/**
-	 * based on from https://github.com/inuyaksa/jquery.nicescroll/blob/master/jquery.nicescroll.js
-	 */
+	/
 	function hasParent( e, p ) {
 		if (!e) return false;
 		var el = e.target||e.srcElement||e||false;

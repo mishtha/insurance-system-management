@@ -1,15 +1,6 @@
 /* Flot plugin for thresholding data.
 
-Copyright (c) 2007-2013 IOLA and Ole Laursen.
-Licensed under the MIT license.
 
-The plugin supports these options:
-
-	series: {
-		threshold: {
-			below: number
-			color: colorspec
-		}
 	}
 
 It can also be applied to a single series, like this:

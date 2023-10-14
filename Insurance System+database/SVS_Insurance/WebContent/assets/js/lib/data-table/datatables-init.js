@@ -1,11 +1,5 @@
 (function ($) {
-    //    "use strict";
-
-
-    /*  Data Table
-    -------------*/
-
-
+    
 
 
     $('#bootstrap-data-table').DataTable({

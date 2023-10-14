@@ -20,7 +20,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Lasitha G Gunasinghe
+ * @author Dharmishtha
  */
 @WebServlet(name = "addpolicyServlet", urlPatterns = {"/addpolicyServlet"})
 public class addpolicyServlet extends HttpServlet {

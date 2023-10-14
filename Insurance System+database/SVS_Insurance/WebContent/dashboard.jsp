@@ -1,7 +1,7 @@
 <%-- 
     Document   : create_user
-    Created on : May 28, 2018, 7:37:06 PM
-    Author     : Lasitha G Gunasinghe
+    name = dharmishtha
+    
 --%>
 <%@page import="java.util.Iterator"%>
 <%@page import="java.util.List"%>

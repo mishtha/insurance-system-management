@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Lasitha G Gunasinghe
+ * @author dharmishtha
  */
 @WebServlet(name = "searchpolicyServlet", urlPatterns = {"/searchpolicyServlet"})
 public class searchpolicyServlet extends HttpServlet {

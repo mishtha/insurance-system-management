@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
-    Created on : May 28, 2018, 6:03:18 PM
-    Author     : Lasitha G Gunasinghe
+    name = dharmishtha
+    date = 23/09/2023
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

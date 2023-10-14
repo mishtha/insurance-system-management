@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Lasitha G Gunasinghe
+ * @author dharmishtha
  */
 @WebServlet(name = "deleteuserServlet", urlPatterns = {"/deleteuserServlet"})
 public class deleteuserServlet extends HttpServlet {

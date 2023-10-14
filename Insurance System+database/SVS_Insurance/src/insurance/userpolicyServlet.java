@@ -18,10 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author Lasitha G Gunasinghe
- */
+
 @WebServlet(name = "userpolicyServlet", urlPatterns = {"/userpolicyServlet"})
 public class userpolicyServlet extends HttpServlet {
 
